@@ -1,0 +1,20 @@
+{
+  "name": "cache",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"jest\""
+  },
+  "keywords": [
+    "node",
+    "cache"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bluebird": "^3.5.1",
+    "jest": "^23.2.0"
+  },
+  "dependencies": {}
+}
